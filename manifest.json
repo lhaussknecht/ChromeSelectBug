@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Select Bug",
+  "version": "1",
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  },
+    "permissions": ["webview"],
+  "icons": { "128": "icon.png" }
+}
+
